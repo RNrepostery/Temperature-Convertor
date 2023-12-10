@@ -1,1 +1,1 @@
-temperature recorded in a particular unit.
+Temperature recorded in a particular unit.
